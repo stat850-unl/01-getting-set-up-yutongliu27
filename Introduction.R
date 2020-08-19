@@ -1,0 +1,7 @@
+My name is Yutong Liu, a second-year Master student in Food Science and try to complete the Master degree next semester. I only have a little R experience when I took sensory evaluation course in Fall 2019. However, we don't need to write the R code ( professors provided), we focus on how it runs and analyzing the results, such as p values, ANOVA. In addition, I only use SaS when I took STAT 801. And have ever used Git and LaTex before. Therefore, it is very difficult for me.
+
+The reason why I choose this course is my project is related to statistic algorithms using programming. I try to blend the publicly owned hops to match the flavor of proprietary hops (the most sought-after and excellent aroma) by mimic the flavor profiles of proprietary hops using statistic algorithms. Finally, brewing beer and doing sensory evaluation to confirm the blending models work or not. It is a very challenging process to meet the satisfy. I also run the ANOVA test to analyze sensory results and PCA to determine the key aroma compounds.
+
+Actually I am a novice of R and R studio and even SAS. I am a Mac user and hope to improve my programming skills after taking this course.
+
+I look forward to meeting you in person shortly.
