@@ -21,3 +21,4 @@ Steps:
 6. Use the push button to push your commits to the GitHub remote copy of your repository.
 
 7. Go to GitHub and see that your changes have appeared. You should have (at least) 2 commits to your repository - one adding or modifying README.md, another adding Introduction.
+a small change
